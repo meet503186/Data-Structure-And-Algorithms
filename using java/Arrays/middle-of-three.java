@@ -1,6 +1,3 @@
-// { Driver Code Starts
-//Initial Template for Java
-
 import java.io.*;
 import java.util.*;
 
@@ -18,10 +15,7 @@ class meet {
             System.out.println(ob.middle(A,B,C));
         }
     }
-}// } Driver Code Ends
-
-
-//User function Template for Java
+}
 
 class Solution{
     int middle(int A, int B, int C){

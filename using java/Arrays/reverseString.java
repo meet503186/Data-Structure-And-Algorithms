@@ -15,16 +15,11 @@ class Driver
             System.out.println(new Reverse().reverseWord(str));
         }
     }
-}// } Driver Code Ends
-
-
-//User function Template for Java
-
+}
 
 class Reverse
 {
-    // Complete the function
-    // str: input string
+    
     public static String reverseWord(String str)
     {
         String rev = "";
